@@ -31,7 +31,7 @@ LinkedIn Clone is a project that replicates the core features of LinkedIn, provi
 
 ## Features
 
-- **CRUD Functionality:** Perform Create, Read, Update, and Delete operations.
+- **POST Functionality:** Perform Create, Read and operations.
 - **Authentication:** Implement user authentication and authorization.
 - **Real-time Updates:** Utilize Firebase to ensure real-time updates in the app.
 - **Responsive Design:** Ensure the app is optimized for various devices and screen sizes.
@@ -45,10 +45,6 @@ To run the project locally, follow these steps:
 3. Install dependencies: `npm install`
 4. Run the application: `npm run div`
 
-## Screenshots
-
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
 
 ## Contributing
 
