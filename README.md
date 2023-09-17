@@ -60,6 +60,3 @@ If you'd like to contribute to this project, please follow these guidelines:
 4. Push to the branch: `git push origin feature-name`
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the [Your License] License - see the [LICENSE](LICENSE) file for details.
