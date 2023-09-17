@@ -43,7 +43,7 @@ To run the project locally, follow these steps:
 1. Clone the repository: `https://github.com/abdulrahmanmahmood/linkedin-clone`
 2. Navigate to the project directory: `cd linkedin-clone`
 3. Install dependencies: `npm install`
-4. Run the application: `npm start`
+4. Run the application: `npm run div`
 
 ## Screenshots
 
