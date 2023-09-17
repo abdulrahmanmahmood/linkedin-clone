@@ -8,10 +8,8 @@ A LinkedIn clone project built with React, Vite, React Router, ReactPlayer, Axio
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Introduction
 
 LinkedIn Clone is a project that replicates the core features of LinkedIn, providing a familiar user interface for users. It is built using React, Vite, and several other technologies, offering a seamless and intuitive user experience.
